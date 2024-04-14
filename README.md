@@ -6,9 +6,9 @@ This project uses deep learning methods to implement prognostic analysis of TCGA
 ##  Data-available
 you should download from TCGA and convert to s-g_data100_data.csv format
 ##  How to use ？
-network.py contains all the Network settings and Partial Likelihood loss function
-ini file contain all the hyper parameters
-utils contain the c-index calculation and other settings
+network.py contains all the Network settings and Partial Likelihood loss function  
+ini file contain all the hyper parameters  
+utils contain the c-index calculation and other settings  
 you can run **DL_survival_main** to run the model.
 
 ##  Reference
