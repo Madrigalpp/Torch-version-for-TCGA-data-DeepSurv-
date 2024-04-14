@@ -1,6 +1,6 @@
 # Deep-Learning-for-survival-analysis  **Pytorch**
 realization DeepSurv and Coxnnet in TCGA mi-RNA analysis   
-this project is under paper for its Deep Learning Analysis Part： [XGBENC](google.com)  
+This project's paper includes a section dedicated to its deep learning analysis, specifically focusing on the implementation of the XGBENC deep learning analysis： [XGBENC](google.com)  
 ##  Overview
 This project uses deep learning methods to implement prognostic analysis of TCGA-miRNA. We propose a scalable code framework covering grid search, 5-fold cross-validation methods. This project analyzes two veteran survival analysis algorithms. DeepSurv and Coxnnet and give model evaluation.
 ##  Data-available
