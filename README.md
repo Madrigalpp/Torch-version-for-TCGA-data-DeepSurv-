@@ -1,4 +1,4 @@
-# Deep-Learning-for-survival-prediction-
+# Deep-Learning-for-survival-analysis  **Pytorch**
 realization DeepSurv and Coxnnet in TCGA mi-RNA analysis   
 this project is under paper for its Deep Learning Analysis Part： [XGBENC](google.com)  
 ##  Overview
