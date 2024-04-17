@@ -12,4 +12,6 @@ you should download from TCGA and convert to s-g_data100_data.csv format
 you can run **DL_survival_main** to run the model.
 
 ##  Reference
-[czifan/DeepSurv.pytorch](https://github.com/czifan/DeepSurv.pytorch) (czifan@pku.edu.cn)
+[czifan/DeepSurv.pytorch](https://github.com/czifan/DeepSurv.pytorch) (czifan@pku.edu.cn)  
+if you have any problems, please contact Wankang Zhai (wzhai2@uh.edu) 
+
