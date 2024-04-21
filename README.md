@@ -19,7 +19,7 @@ you can start in you CMD via
 **ini_file.py** contain all the hyper parameters  
 **utils.py** contain the c-index calculation and other settings  
 you can run **DL_survival_main** to run the model.
-
+[绿叶](https://github.com/Madrigalpp/Torch-version-for-TCGA-data-DeepSurv-/blob/main/exp%20setting.png)
 ##  Reference
 [czifan/DeepSurv.pytorch](https://github.com/czifan/DeepSurv.pytorch) (czifan@pku.edu.cn)  
 if you have any problems, please contact Wankang Zhai (wzhai2@uh.edu) 
