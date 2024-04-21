@@ -6,13 +6,15 @@ This project uses deep learning methods to implement prognostic analysis of TCGA
 ## Requirment
 Pytorch>=0.4.0  
 CPU or GPU
-<pip install requirements.txt>
+
+`<pip install requirements.txt>` 
 ##  Data-available
 you should download from TCGA and convert to s-g_data100_data.csv format.
 [TCGA](https://www.cancer.gov/ccg/research/genome-sequencing/tcga)  
 ##  How to use ？
 you can start in you CMD via  
-<python main.py>
+`<python main.py>` 
+
 **network.py** contains all the Network settings and Partial Likelihood loss function  
 **ini_file.py** contain all the hyper parameters  
 **utils.py** contain the c-index calculation and other settings  
